@@ -33,3 +33,10 @@ console.log("Logical Operator")
 console.log(a>1 && b>1)
 console.log(a>1 || b>0)
 console.log(a>0)
+
+//bitwise
+console.log("Unary Operator")
+console.log(c++)
+console.log(c--)
+console.log(--c)
+console.log(++c)
