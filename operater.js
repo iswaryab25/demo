@@ -16,3 +16,14 @@ console.log(a*=30)
 console.log(a/=30)
 console.log(a%=30)
 console.log(a**=30)
+
+//comparision
+console.log("Comparision Operator")
+var a=5
+var b=3
+console.log(a==b)
+console.log(a!=b)
+console.log(a>b)
+console.log(a<b)
+console.log(a>=b)
+console.log(a<=b)
