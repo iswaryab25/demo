@@ -13,4 +13,17 @@ else if (light == "green") {
 }
 else {
     console.log("Invalid signal");
+} 
+
+var signal = "White"
+switch(signal){
+case 1: "green";
+    console.log("Go!");
+    break;
+case 2: "yellow";
+    console .log("Wait");
+case 3: "red";
+    console.log("Stop");
+default:
+    console.log("Invaild Signal Color")
 }
